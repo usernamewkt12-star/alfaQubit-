@@ -1,6 +1,57 @@
 # alfaQubit-
 My Dossier Journey 
-![2d3a38b4-235b-48cf-80e1-2669a08d8592-1_all_27](https://github.com/user-attachments/assets/d1385690-4f6d-4810-a61d-3f004fe74b1b)
+# alfaQubit — Cinematic Preview  
+WKT12 • Infrastructure Access Node
+
+---
+
+<div align="center">
+
+**INITIALIZING…**
+**VISUAL LINK ESTABLISHED**
+
+</div>
+
+---
+
+## 🎥 Preview Sequence
+
+A dark interface pulses to life.  
+Neon cyan lines trace across the frame.  
+The WKT12 badge fades in like a classified seal.
+
+A fingerprint icon glows.  
+The system listens.
+The lock disengages.  
+The dossier opens.
+
+---
+
+## 🧩 Inside the App
+
+- **Interactive dossier shell**  
+- **Neon‑coded WKT12 theme**  
+- **Modular intelligence nodes**  
+- **Asset‑driven visual layer**  
+
+Everything loads instantly, like a cinematic UI sequence.
+
+---
+
+## 🚀 Deployment Preview
+
+The alfaQubit applet is designed for **instant launch**:
+No builds.  
+No pipelines.  
+Just a clean, global link.
+
+---
+
+## 🔻 Closing Frame
+
+The interface dims.  
+A final line appears:
+Fade out.
 
 # alfaQubit — My Dossier Journey  
 Operational Node • WKT12 Ecosystem
