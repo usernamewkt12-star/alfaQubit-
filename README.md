@@ -3,9 +3,10 @@ My Dossier Journey
 # alfaQubit — Cinematic Preview  
 WKT12 • Infrastructure Access Node
 
----
-
 <div align="center">
+
+![2d3a38b4-235b-48cf-80e1-2669a08d8592-1_all_27](https://github.com/user-attachments/assets/6eac80f3-a401-48b8-a283-d4d4744483f8)
+
 
 **INITIALIZING…**
 **VISUAL LINK ESTABLISHED**
