@@ -21,11 +21,23 @@ and supporting assets.
 ![WKT12 Badge](assets/wkt12-badge.png)
 
 ---
+</div>
+
+The system recognizes you.  
+The dossier opens.
+
+---
+
+## 📡 Deployment (Scene 3)
+
+The alfaQubit archive is engineered for **instant global deployment**.
+
+**Protocol: ai.studio Applet Uplink**
 
 ## 🔐 Access Layer
 
 <div align="center">
 
-<img src="assets/fingerprint.png" width="120" />
+<img srcc="assets/fingerprint.png" width="120" />
 
 **BIOMETRIC AUTHENTICATION REQUIRED**
